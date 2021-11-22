@@ -17,7 +17,7 @@ Welcome to my book store application, to run the project you will need to follow
   </tr>
   <tr>
     <td>Step 3: Upload the project on this repository </td>
-    <td">[Node.JS](https://github.com/DanielGoandete/kata-reactjs.git)</td>
+    <td">[[Node.JS](https://github.com/dgsTest/KataProject.git)]</td>
   </tr>
   <tr>
     <td>Step 4: Lunch the Project</td>
